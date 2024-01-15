@@ -1,0 +1,22 @@
+        {
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "A web-based chat application that allows real-time one-to-one text messaging.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2",
+    "sequelize": "^6.6.2",
+    "ws": "^7.4.6",
+    "bootstrap": "^5.1.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+    
+    
